@@ -1,0 +1,26 @@
+[
+ {
+    "name": "Fluffy",
+    "weather": "5 kg",
+    "breed": "Persian",
+    "image": "medium-fur-brown-and-white-cat-sitting-on-brown-sofa-near-white-window.jpg"
+
+ },   
+
+ {
+    "name": "Whiskers",
+    "weather": "3.5 kg",
+    "breed": "Siamese",
+    "image": "closeup-photo-of-white-and-black-siamese-cat.jpg"
+
+ },  
+
+ {
+    "name": "Tiger",
+    "weather": "7 kg",
+    "breed": "Bengal",
+    "image": "calico-cat-selective-focus-photography.jpg"
+
+ }  
+
+]
